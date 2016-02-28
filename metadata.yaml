@@ -1,0 +1,35 @@
+_repo: Memoirs-of-Sir-Wemyss-Reid-1842-1885_7117
+contributor:
+  creator:
+    editor:
+      agent_name: Reid, Stuart J. (Stuart Johnson)
+      alias: Reid, Stuart Johnson
+      birthdate: 1848
+      deathdate: 1927
+      gutenberg_agent_id: '2343'
+      url: http://www.gutenberg.org/2009/agents/2343
+creator:
+  author:
+    agent_name: Reid, T. Wemyss (Thomas Wemyss)
+    aliases:
+    - Reid, Wemyss, Sir
+    - Reid, Thomas Wemyss
+    birthdate: 1842
+    deathdate: 1905
+    gutenberg_agent_id: '39115'
+    url: http://www.gutenberg.org/2009/agents/39115
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7117'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reid, T. Wemyss (Thomas Wemyss), 1842-1905'
+- !lcsh 'Journalists -- Great Britain -- Biography'
+- !lcc 'DA'
+title: Memoirs of Sir Wemyss Reid 1842-1885
+url: http://www.gutenberg.org/ebooks/7117
